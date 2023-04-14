@@ -11,8 +11,13 @@
 <p align="center">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/panoma?1337Badge=off&UM6P=off" alt="panoma's 42 stats" /></a></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=alnwlkr&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
+<p align="center">
+[![GitHub Streak](https://streak-stats.demolab.com?user=alnwlkr&theme=dark&hide_border=true)](https://git.io/streak-stats)
+</p>
 
 <pre>
 
