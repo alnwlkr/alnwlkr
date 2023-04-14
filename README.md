@@ -1,14 +1,24 @@
+# Hi, Welcome to my profile!
 <p align="center">
   <img src="https://media.tenor.com/cJ3q4osVwEgAAAAC/detective-detective-conan.gif" style="width: 100%; height: auto; max-width: 100%;">
   </p>
  
-## cat myprofile.txt
+## whoami
 > Pongpada Anoma \
 > Electrical Engieering student at KMITL \
-> Software Engineering student at 42Bangkok \
+> Software Engineering student at 42Bangkok
 
 <p align="center">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/panoma?1337Badge=off&UM6P=off" alt="panoma's 42 stats" /></a></p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=alnwlkr&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+
+<pre>
+
+</pre>
+
+
 <!--
 **alnwlkr/alnwlkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
