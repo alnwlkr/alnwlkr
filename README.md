@@ -9,15 +9,16 @@
 > Software Engineering student at 42Bangkok
 
 <p align="center">
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/panoma?1337Badge=off&UM6P=off" alt="panoma's 42 stats" /></a></p>
-
-<p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/panoma?1337Badge=off&UM6P=off" alt="panoma's 42 stats" /></a>
 </p>
 
 <p align="center">
+  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alnwlkr"></a>
+</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alnwlkr)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=alnwlkr&theme=dark&hide_border=true)](https://git.io/streak-stats)
-</p>
 
 <pre>
 
