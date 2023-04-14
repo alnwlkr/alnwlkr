@@ -13,11 +13,11 @@
 </p>
 
 <p align="center">
-  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alnwlkr"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alnwlkr"></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alnwlkr)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alnwlkr&show_icons=true&theme=vision-friendly-dark)
 [![GitHub Streak](https://streak-stats.demolab.com?user=alnwlkr&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <pre>
