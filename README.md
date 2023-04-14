@@ -1,8 +1,15 @@
-### Hi there 👋
+# 3 2 1 Bang!
 <p align="center">
   <img src="https://media.tenor.com/cJ3q4osVwEgAAAAC/detective-detective-conan.gif" style="width: 100%; height: auto; max-width: 100%;">
   </p>
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/panoma?1337Badge=off&UM6P=off" alt="panoma's 42 stats" /></a>
+ 
+## cat myprofile.txt
+> Pongpada Anoma
+> Electrical Engieering student at KMITL
+> Software Engineering student at 42Bangkok
+
+<p align="center">
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/panoma?1337Badge=off&UM6P=off" alt="panoma's 42 stats" /></a></p>
 <!--
 **alnwlkr/alnwlkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
