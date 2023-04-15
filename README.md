@@ -5,8 +5,8 @@
  
 ## whoami
 > Pongpada Anoma \
-> Electrical Engieering student at KMITL \
-> Software Engineering student at 42Bangkok
+> Electrical Engieering Student at KMITL \
+> Software Engineering Student at 42Bangkok
 
 <p align="center">
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/panoma?1337Badge=off&UM6P=off" alt="panoma's 42 stats" /></a>
