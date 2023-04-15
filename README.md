@@ -9,8 +9,8 @@
 > Software Engineering Student at 42Bangkok
 
 <p align="center">
-  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/panoma?1337Badge=off&UM6P=off" alt="panoma's 42 stats" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alnwlkr"></a>
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/panoma?1337Badge=off&UM6P=off" alt="panoma's 42 stats" style="width: 45%;"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alnwlkr" style="width: 45%;"></a>
 </p>
   
 <p align="center">
