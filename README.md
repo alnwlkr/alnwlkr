@@ -7,10 +7,10 @@
 > Pongpada Anoma \
 > Electrical Engieering Student at KMITL \
 > Software Engineering Student at 42Bangkok
-<div style="height: auto; width: 100%">
+<div style="height: auto; width: 100%;">
   <p align="center">
-    <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/panoma?1337Badge=off&UM6P=off" alt="panoma's 42 stats" style="width: 45%;"></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alnwlkr" style="height=""></a>
+    <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/panoma?1337Badge=off&UM6P=off" alt="panoma's 42 stats" style="height: 100%;"></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alnwlkr" style="height="height: 100%;"></a>
   </p>
 </div>
 <p align="center">
