@@ -14,6 +14,7 @@
 
 <p align="center">
   <a><img src="https://github-readme-stats.vercel.app/api?username=alnwlkr&show_icons=true&theme=vision-friendly-dark"></a>
+  <br>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=alnwlkr&theme=dark&hide_border=true"></a>
 </p>
 
