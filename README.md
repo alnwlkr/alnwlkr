@@ -5,7 +5,8 @@
  
 ## whoami
 > Pongpada Anoma \
-> Electrical Engineering Student at KMITL \
+> AIoT Engineering Student at AIT
+> [Graduated]  Electrical Engineering Student at KMITL \
 > [Blackholed] Software Engineering Student at 42Bangkok
 
 
